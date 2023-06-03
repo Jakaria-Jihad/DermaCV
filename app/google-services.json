@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158803642959",
+    "project_id": "dermacv-762d8",
+    "storage_bucket": "dermacv-762d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158803642959:android:0060a3a57226c2cd3db83a",
+        "android_client_info": {
+          "package_name": "com.example.dermacv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158803642959-k359s11qdmgad95958ee4b62m7m5eljr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mP1P1pO7rBjoyQofa2tX-O7F2t63tKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158803642959-k359s11qdmgad95958ee4b62m7m5eljr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
